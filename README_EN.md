@@ -1,7 +1,5 @@
 OpenLXL — A Specialized OpenGL 3.3 Translation Layer for Minecraft
-
-https://github.com/Layer-MC-Team/Layer-MC-Team-sign/raw/main/distribution.png
-
+![picture](https://github.com/Layer-MC-Team/Layer-MC-Team-sign/raw/main/distribution.png)
 Snapdragon‑focused | Stable & Efficient
 
 🌐 Languages
