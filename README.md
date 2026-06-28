@@ -1,7 +1,5 @@
 OpenLXL — 专为 Minecraft 优化的 OpenGL 3.3 翻译层
-
-https://github.com/Layer-MC-Team/Layer-MC-Team-sign/raw/main/distribution.png
-
+![图片](https://github.com/Layer-MC-Team/Layer-MC-Team-sign/raw/main/distribution.png)
 骁龙专精 | 稳定高效
 
 🌐 语言
